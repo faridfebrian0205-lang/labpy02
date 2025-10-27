@@ -1,0 +1,21 @@
+# Program untuk mengurutkan data dari yang terkecil
+
+# Meminta jumlah data yang akan dimasukkan
+jumlah_data = int(input("Masukkan jumlah data: "))
+
+# Membuat list kosong untuk menampung data
+data = []
+
+# Memasukkan data satu per satu
+for i in range(jumlah_data):
+    nilai = float(input(f"Masukkan data ke-{i+1}: "))
+    data.append(nilai)
+
+# Mengurutkan data dari yang terkecil
+data.sort()
+
+# Menampilkan hasil setelah diurutkan
+print("\nData setelah diurutkan (dari terkecil ke terbesar):")
+for nilai in data:
+
+ print(nilai)
