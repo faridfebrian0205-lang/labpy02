@@ -1,5 +1,4 @@
 # Program: Perhitungan Harga Tiket Bioskop
-# Bahasa: Python
 
 print("=== Program Harga Tiket Bioskop ===")
 
@@ -48,5 +47,6 @@ print(f"Jumlah tiket: {jumlah}")
 print(f"Status member: {'Ya' if member == 'ya' else 'Tidak'}")
 print(f"Diskon: {diskon*100:.0f}%")
 print(f"Total yang harus dibayar: Rp{total_bayar:,.0f}")
+
 
 print("\nTerima kasih telah membeli tiket di bioskop kami!")
