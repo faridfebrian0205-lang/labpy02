@@ -15,7 +15,7 @@
 4. Program otomatis menghitung total harga berdasarkan pilihan dan jumlah tiket.
 5. selesai
 
-# kalender sederhana
+# kalkulator sederhana
  Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dari
  pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan
  menghitung hasil sesuai dengan operator yang dipilih.
