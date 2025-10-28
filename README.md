@@ -10,7 +10,7 @@
 1. Menggunakan list untuk menyimpan jenis dan harga tiket.
 2. Pilihan :
    >Regular: Rp50.000
-   >VIP: Rp75.000
+   >VIP: Rp100.000
 3. Diskon 20% diberikan jika pembeli memiliki member.
 4. Program otomatis menghitung total harga berdasarkan pilihan dan jumlah tiket.
 5. selesai
