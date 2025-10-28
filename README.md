@@ -1,14 +1,10 @@
-# latihan-py2
- Buat program untuk mengurutkan data berdasarkan input sejumlah
- data (minimal 3 variable input atau lebih), kemudian tampilkan
- hasilnya secara berurutan mulai dari data terkecil.
+# program pemesanan tiket bioskop
+Buat program yang menghitung harga tiket bioskop. Tiket reguler berharga Rp50.000,
+sedangkan tiket VIP berharga Rp100.000. Jika user memiliki kartu member, mereka
+mendapatkan diskon 20% dari harga tiket. Program ini harus meminta tipe tiket dan status
+member dari user, lalu menghitung total harga yang harus dibayar.
 
  Alur program
  1. mulai program
- 2. minta pengguna memsaukan jumlah data
- 3. inisisalisasi list kosong untuk menampung data
- 4. ulangi proses input sejumlah data
- 5. simpan setiap data ke dalam list
- 6. setelah semua data masuk, urutkan data dari terkecil ke terbesar
- 7. tampilakn hasil urutan
- 8. selesai
+ 2. minta pengguna memasukan tipe tiket yang akan dipesan regular dan VIP
+ 3. 
