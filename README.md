@@ -4,7 +4,7 @@
  mendapatkan diskon 20% dari harga tiket. Program ini harus meminta tipe tiket dan status
  member dari user, lalu menghitung total harga yang harus dibayar.
  Petunjuk:
- ● Gunakanif elsedanoperator ternary.
+ ● Gunakan if else dan operator ternary.
 
  Alur program
 1. Menggunakan list untuk menyimpan jenis dan harga tiket.
@@ -20,7 +20,7 @@
  pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan
  menghitung hasil sesuai dengan operator yang dipilih.
  Petunjuk:
- ● Gunakanif elif elseuntuk menentukan operasi aritmatika.
+ ● Gunakan if elif else untuk menentukan operasi aritmatika.
 
  Alur program
 1. Program menampilkan menu operasi matematika.
